@@ -55,7 +55,8 @@ pip install -r requirements.txt
 ---
 
 ## 👤 Author
-Ayushman
+**Ayushman**
+
 Data Analyst | Skilled in Python, SQL, Tableau, and Business Storytelling
 
 
