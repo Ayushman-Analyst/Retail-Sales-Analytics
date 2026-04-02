@@ -42,18 +42,19 @@ A polished PDF report summarizing methodology, visuals, findings, and business r
 ## ⚙️ Requirements
 Install dependencies with:
 
-pip install -r requirements.txt'''
+pip install -r requirements.txt
+
 
 ---
 
-📌 Business Impact
+## 📌 Business Impact
 - Replicate December’s promotional strategies to boost sales in other months.
 - Target senior evening shoppers for higher returns.
 - Focus marketing spend on high‑performing states.
 
 ---
 
-👤 Author
+## 👤 Author
 Ayushman
 Data Analyst | Skilled in Python, SQL, Tableau, and Business Storytelling
 
