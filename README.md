@@ -41,7 +41,7 @@ A polished PDF report summarizing methodology, visuals, findings, and business r
 
 ## ⚙️ Requirements
 Install dependencies with:
-```bash
+
 pip install -r requirements.txt'''
 
 ---
