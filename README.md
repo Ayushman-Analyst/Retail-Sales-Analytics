@@ -59,7 +59,7 @@ Retail-Sales-Analytics/
 *(Make sure these images exist in your visuals folder)*
 
 ![Daily Trend](visuals/daily_trend.png)  
-![Sales Boxplot](visuals/sales_boxplot.png)
+![Sales Boxplot](visuals/Sales_boxplot.png)
 
 ---
 
@@ -72,17 +72,24 @@ A polished PDF report summarizing methodology, visuals, findings, and business r
 ## ⚙️ Requirements
 Install dependencies with:
 
-'''bash
+```
 pip install -r requirements.txt
+```
 
 🚀 How to Run the Project
 1. Clone the repository
 2. Install dependencies:
-    pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 3. Open Jupyter Notebook:
-    jupyter notebook
-4. Run retail_sales_analysis.ipynb
-
+```
+jupyter notebook
+```
+4. Run:
+```
+retail_sales_analysis.ipynb
+```
 
 ---
 
