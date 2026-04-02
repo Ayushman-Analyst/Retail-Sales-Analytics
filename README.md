@@ -4,7 +4,7 @@
 This project analyzes retail sales data to uncover purchasing trends, identify high‑performing segments, and provide actionable insights for business decision‑making.  
 **Dataset Range:** October – December 2020  
 
-The analysis demonstrates skills in **Python (Pandas, Matplotlib, Seaborn)**, **SQL concepts**, and **data storytelling** with clear business impact.
+The analysis demonstrates skills in **Python (Pandas, Matplotlib, Seaborn)** and **data storytelling** with clear business impact.
 
 ---
 
