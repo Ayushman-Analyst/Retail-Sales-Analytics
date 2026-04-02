@@ -8,10 +8,34 @@ The analysis demonstrates skills in **Python (Pandas, Matplotlib, Seaborn)** and
 
 ---
 
+## 🛠️ Tools & Technologies
+- Python (Pandas, NumPy)
+- Data Visualization (Matplotlib, Seaborn)
+- Jupyter Notebook
+- Data Cleaning & Exploratory Data Analysis (EDA)
+
+---
+
 ## 📂 Repository Structure
 
-'''Retail-Sales-Analytics/ │ ├── data/                # Raw dataset │   └── Sales.csv │ ├── notebooks/           # Jupyter notebook with analysis │   └── retail_sales_analysis.ipynb │ ├── visuals/             # Key charts and plots │   ├── dual_axis_chart.png │   ├── sales_boxplot.png │   ├── daily_trend.png │   └── state_sales.png │ ├── report/              # Final polished PDF report │   └── Retail_Sales_Insights.pdf │ ├── requirements.txt     # Python dependencies └── README.md            # Project overview'''
-
+Retail-Sales-Analytics/
+│
+├── data/
+│ └── Sales.csv
+│
+├── notebooks/
+│ └── retail_sales_analysis.ipynb
+│
+├── visuals/
+│ ├── dual_axis_chart.png
+│ ├── sales_boxplot.png
+│ └── daily_trend.png
+│
+├── report/
+│ └── Retail_Sales_Insights.pdf
+│
+├── requirements.txt
+└── README.md
 
 ---
 
@@ -29,7 +53,13 @@ The analysis demonstrates skills in **Python (Pandas, Matplotlib, Seaborn)** and
 - **Daily Trend Line:** Evening shopping peaks.  
 - **State‑wise Sales Chart:** Regional contribution to revenue.  
 
-*(See visuals/ folder for all charts.)*
+---
+
+## 🖼️ Sample Visuals
+*(Make sure these images exist in your visuals folder)*
+
+![Daily Trend](visuals/daily_trend.png)  
+![Sales Boxplot](visuals/sales_boxplot.png)
 
 ---
 
@@ -42,7 +72,16 @@ A polished PDF report summarizing methodology, visuals, findings, and business r
 ## ⚙️ Requirements
 Install dependencies with:
 
+'''bash
 pip install -r requirements.txt
+
+🚀 How to Run the Project
+1. Clone the repository
+2. Install dependencies:
+    pip install -r requirements.txt
+3. Open Jupyter Notebook:
+    jupyter notebook
+4. Run retail_sales_analysis.ipynb
 
 
 ---
@@ -59,5 +98,5 @@ pip install -r requirements.txt
 
 Data Analyst | Skilled in Python, SQL, Tableau, and Business Storytelling
 
-
+📫 Connect with me: www.linkedin.com/in/ayushman-manav-data-analytics
 
