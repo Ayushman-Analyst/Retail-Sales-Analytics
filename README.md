@@ -56,7 +56,6 @@ Retail-Sales-Analytics/
 ---
 
 ## 🖼️ Sample Visuals
-*(Make sure these images exist in your visuals folder)*
 
 ![Daily Trend](visuals/daily_trend.png)  
 ![Sales Boxplot](visuals/Sales_boxplot.png)
